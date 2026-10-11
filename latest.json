@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "board": "teensy41",
+  "abi": 1,
+  "version": 1,
+  "size": 56320,
+  "sha256": "9bdecb3cd33cca60a29157117d30273b7669331b79875ea7952f5ba2a5f70c27",
+  "hex_sha256": "4bcfc34859ed773f30572406f541b760a9d23944eb3735bbc14414459aaf0a18",
+  "package_sha256": "7a6638623c4680d4b7ec84f7b93234681f2d14dac5d02416498eeeeb8111d92c",
+  "manifest_hex": "4d5055504430303129000000010000000100000000dc000000000060000000009bdecb3cd33cca60a29157117d30273b7669331b79875ea7952f5ba2a5f70c27137d09330aee86433be2c4cfbade263f0bd8ae6419478994bbb5cfb0461880f0edd7f9b63c22632d8543a9cb1dfa953edaba2116475b8404a432e00511ff0a07",
+  "package_url": "https://github.com/DriedRack/shiny-barnacle/releases/download/fw-1/firmware.mwu",
+  "asset_id": "631771106"
+}
